@@ -5,6 +5,9 @@
 - 🔭 Undergraduate student at Seoul National University
 - 💘 Love to develop web-based applications
 
+
+<a href="https://github.com/shamshod01/shamshod01/raw/gh-pages/cv.pdf" target="_blank" >Download Resume
+
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
