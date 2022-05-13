@@ -16,6 +16,10 @@
 <br />
 
 ### Languages and Tools:
+  
+<img align="left" alt="Solidity" width="66px" src="https://images.velog.io/images/truthgarnet/post/c546219a-69f9-497c-a745-57e7d03132bb/solidity.jpeg" />
+<img align="left" alt="Ethereum" width="46px" src="https://aiexpress.io/wp-content/uploads/2022/02/Ehtereum-ETH-Price-Looks-Exhausted-Near-3200-Is-Upside-Over.png" />
+<img align="left" alt="Klaytn" width="76px" src="https://uploads-ssl.webflow.com/60f7cc73ca13c903f4a13ffb/61ea6ee6cd9df42b9d508ef8_Klaytn%20Logo.png" />
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" width="26px" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" />
@@ -34,7 +38,17 @@
 
 <br />
 <br />
+  
+### On going hobby projects 
+<br />
+<br />
+  
+[![P2E Game](https://github-readme-stats.vercel.app/api/pin/?username=shamshod01&repo=RealtyGame)](https://github.com/shamshod01/RealtyGame)
 
+
+<br/>
+<br/>
+  
 ---
 
 |<img  align="center" src="https://github-readme-stats.vercel.app/api?username=shamshod01&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshod01&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />|
