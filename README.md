@@ -6,7 +6,7 @@
 - 💘 Love to develop web-based applications
 
 
-<a href="https://github.com/shamshod01/shamshod01/raw/gh-pages/cv.pdf" target="_blank" >Download Resume
+
 
 ### Connect with me:
 
