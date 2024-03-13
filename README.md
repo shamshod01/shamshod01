@@ -56,5 +56,5 @@
 
 
 
-[instagram]: https://www.instagram.com/shod23.08/
-[linkedin]: https://www.linkedin.com/in/shamshod-rozikov-021773210/
+[instagram]: https://www.instagram.com/shodshod.kr/
+[linkedin]: https://www.linkedin.com/in/shamshod01/
