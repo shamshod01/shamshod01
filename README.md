@@ -56,5 +56,5 @@
 
 
 
-[instagram]: https://www.instagram.com/shodshod.kr/
+[instagram]: https://www.instagram.com/shamshod.kr/
 [linkedin]: https://www.linkedin.com/in/shamshod01/
