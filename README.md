@@ -1,7 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Shamshod)](https://git.io/typing-svg) 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=40FFAC00&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+Shamshod's+world+)
 
-## I'm a Software Developer, Entrepreneur and . . . </br> just a funny guy >_<
-🔭 Blockchain & AI Enthusiast<br>👩🏻‍🎓 Computer Science at SNU, South Korea<br>💬 Open to communication<br>⚡ Let's be the ones who are changing the world
+</div>
+
+## Shamshod is a Software Developer, Entrepreneur and . . . </br> just a funny guy >_<
+🔭 Blockchain & AI Enthusiast<br>👩🏻‍🎓 Computer Science at SNU, South Korea<br>💬 Open for communications<br>⚡ Let's be the ones who are changing the world
+
+# ✍️ Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 # 💻 Tech Stack:
@@ -37,5 +44,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shamshod01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
